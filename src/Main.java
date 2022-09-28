@@ -10,6 +10,7 @@ public class Main {
         for (int expence:expenses){
             sum+=expence;
         }
+
             System.out.println("Сумма трат за месяц составила " + sum + " рублей");
         System.out.println("Задача 2");
         int max = Integer. MIN_VALUE;
